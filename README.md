@@ -24,7 +24,7 @@ Can protect you away from DNS pollutions
 
 6.All done!Then you can use the "Rules" button to change process rules.
 
-## Why I need to use DoH/DoT/DNSCrypt an so on?
+## Why I need to use DoH/DNSCrypt an so on?
 
 1.You can prevent fron DNS pollutions
 
