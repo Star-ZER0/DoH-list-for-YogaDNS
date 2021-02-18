@@ -6,11 +6,15 @@ Can protect you away from DNS pollutions
 
 ---
 
+[English/[简体中文](https://github.com/EDragon404/DoH-list-for-YogaDNS/blob/main/README_zh-CN.md)]
+
+---
+
 ## How to use this configuration?
 
 1.You need to install YogaDNS Client.You can download it from [YogaDNS Download Link](https://www.yogadns.com/download/YogaDNSSetup.exe)
 
-2.Download configuration from this responsitory
+2.Download configuration from this responsitory [Configuration Download Link (Right click and choose "Save as...")](https://raw.githubusercontent.com/EDragon404/DoH-list-for-YogaDNS/main/YogaDNS-DoH-Config.xml)
 
 3.Open YogaDNS interface
 
@@ -30,4 +34,4 @@ And so on...
 
 ## Is there any negative impact？
 
-Yes，your network speed might lower than usual,so use this depends on yourself
+Yes，your network speed might lower than usual,but you can use the "Rules" button to change process rules to reduce the impact
