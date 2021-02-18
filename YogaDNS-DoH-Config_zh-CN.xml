@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--Configuration releases at https://github.com/EDragon404/DoH-list-for-YogaDNS-->>
 <YogaDnsProfile file_format="1" product_id="1" product_min_version="112000">
 	<Settings ignore_rule_if_interface_down="1" blockTcpPort53="1" clearDnsCache="1">
 	</Settings>
@@ -42,7 +43,7 @@
 	</DnsPool>
 	<DnsServer id="1822" name="360 DNS" protocol="doh" doh_host_name="doh.360.cn" doh_path="/dns-query" />
 	<DnsServer id="1830" name="AdGuard DNS" protocol="doh" dnssec_supported="1" doh_host_name="dns-unfiltered.adguard.com" doh_path="/dns-query" />
-	<DnsServer id="1831" name="Cloudflare DNS" protocol="doh" doh_host_name="cloudflare-dns.com" doh_path="/dns-query" />
+	<DnsServer id="1831" name="Cloudflare DNS" protocol="doh" dnssec_supported="1" doh_host_name="cloudflare-dns.com" doh_path="/dns-query" />
 	<DnsServer id="1827" name="DNS.SB" protocol="doh" doh_host_name="doh.dns.sb" doh_path="/dns-query" />
 	<DnsServer id="1824" name="GeekDNS" protocol="doh" dnssec_supported="1" doh_host_name="i.233py.com" doh_path="/dns-query" />
 	<DnsServer id="1825" name="GeekDNS" protocol="doh" dnssec_supported="1" doh_host_name="dns.233py.com" doh_path="/dns-query" />
